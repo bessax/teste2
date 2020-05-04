@@ -1,3 +1,4 @@
 <?php
-   echo 'Olá mundo! Teste de Git';
+  // Curso de PHP7 Módulo Controle de versão.
+   echo 'Hello World';
 ?>
